@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Inter", "Arial", sans-serif;
+  --color-game-bg: #1a1a1a;
+}
