@@ -1,10 +1,10 @@
-import CardSortingGame from './CardSortingGame';
+import CardSortingGame3D from './CardSortingGame3D';
 import './index.css'
 
 function App() {
   return (
     <div className="w-full h-full">
-      <CardSortingGame />
+      <CardSortingGame3D />
     </div>
   );
 }
